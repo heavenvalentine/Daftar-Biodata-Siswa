@@ -6,3 +6,6 @@ Daftar biodata Siswa Dicoding Academy
 - Angkatan 2019
 - Angkatan 2020
 - Angkatan 2021
+
+
+nb: yak, jadi readmd itu untuk pengantar repository.
